@@ -1,0 +1,6 @@
+job_id,title,company,location,skills,summary,url
+J1,Junior Data Analyst,Acme Analytics,"Nairobi, KE","excel, sql, python, data visualization, statistics","Analyze datasets, build dashboards, support stakeholders with insights.",https://example.com/jobs/J1
+J2,Cloud Support Associate (AWS),PLP Cloud,Remote,"aws, linux, networking, python, monitoring","Assist customers with AWS services, troubleshoot cloud issues, write runbooks.",https://example.com/jobs/J2
+J3,Frontend Developer (React),Vibe Tech,"Nairobi, KE","html, css, javascript, react, vite","Build responsive UIs, collaborate with designers, ship features fast.",https://example.com/jobs/J3
+J4,Machine Learning Intern,DataLab,Hybrid,"python, pandas, scikit-learn, ml, data cleaning","Train baseline models, evaluate performance, document experiments.",https://example.com/jobs/J4
+J5,DevOps Trainee,ShipIt,Remote,"docker, ci/cd, linux, bash, aws","Build CI pipelines, containerize apps, maintain dev environments.",https://example.com/jobs/J5
