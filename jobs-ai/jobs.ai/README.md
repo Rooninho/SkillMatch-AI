@@ -100,9 +100,3 @@ Returns `{"status":"ok"}` if the service is up.
 
 ---
 
-## Demo tips (for the hackathon video)
-- Start with the problem: “Finding relevant jobs is noisy; we match by *skills*”
-- Show the 2-step flow: type skills → get ranked jobs
-- Explain the model briefly (30 seconds)
-- Mention the upgrade path (embeddings, vector DB, re-ranking)
-- Close with what's next and impact (youth employment, skilling platforms)
