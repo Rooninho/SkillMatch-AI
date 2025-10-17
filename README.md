@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Features
+## 🚀🕸️🕸️🕸️ Features
 
 - **TF–IDF + Cosine Similarity:** Baseline AI matching jobs to user skills.  
 - **FastAPI Backend:** `/recommend` and `/health` endpoints for integration.  
@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠 Quickstart
+## 🛠🕸️ Quickstart
 
 ### 1. Setup Virtual Environment (optional but recommended)
 
